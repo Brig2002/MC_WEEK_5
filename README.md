@@ -13,10 +13,11 @@
 - I practice extending functions using the virtual and override keywords.
 - I create a contract that inherits from two parent contracts with conflicting functions.
 - I then resolve the conflict explicitly using the override keyword.
+- I then compiled and deployed the contract on the Arbitrum testnet.
 
 
 
 
 ## The challenges I faced
-- I faced a challenge with sending the Arbitrum test token to my metamask.
+- I didn't faces any challenges this time.
   
